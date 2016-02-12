@@ -4,6 +4,7 @@ Android Grid example. Images and data both taken from Assets. The data is retriv
 Dependencies you will need (included in the code)
 
 dependencies {
+
 ...
 
 compile 'com.google.code.gson:gson:2.4'
