@@ -12,3 +12,4 @@ compile 'com.google.code.gson:gson:2.4'
 compile 'com.squareup.picasso:picasso:2.5.2'
 
 }
+
