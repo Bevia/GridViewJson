@@ -13,5 +13,5 @@ compile 'com.squareup.picasso:picasso:2.5.2'
 
 }
 
-![ScreenShot](/vincent/Escritorio/device-2016-02-10-182639.png?raw=true "Optional Title")
+![ScreenShot](/device-2016-02-10-182639.png?raw=true "Optional Title")
 
