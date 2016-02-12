@@ -1,5 +1,5 @@
 # GridViewJson
-Android Grid example. Images and data both taken from Assets. The data is retrived from JSON file in assets.
+Android GridView example. Images and data both taken from Assets. The data is retrived from JSON file in assets.
 
 Dependencies you will need (included in the code)
 
