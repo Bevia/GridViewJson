@@ -13,4 +13,4 @@ compile 'com.squareup.picasso:picasso:2.5.2'
 
 }
 
-![alt text](/device-2016-02-10-182639.jpg "Description goes here")
+![alt text](device-2016-02-10-182639.jpg "Description goes here")
