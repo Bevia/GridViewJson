@@ -13,4 +13,5 @@ compile 'com.squareup.picasso:picasso:2.5.2'
 
 }
 
-![Uploading device-2016-02-10-182639.png…]()
+![Alt text](/vincent/Escritorio/to/device-2016-02-10-182639.png?raw=true "Optional Title")
+
