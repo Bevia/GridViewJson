@@ -5,7 +5,6 @@ Dependencies you will need (included in the code)
 
 dependencies {
 ...
-    compile 'com.google.code.gson:gson:2.4'
-    compile 'com.squareup.picasso:picasso:2.5.2'
+compile 'com.google.code.gson:gson:2.4'
+compile 'com.squareup.picasso:picasso:2.5.2'
 }
-
